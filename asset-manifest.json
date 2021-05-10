@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/RetroBoard/static/css/main.34d0c29f.chunk.css",
-    "main.js": "/RetroBoard/static/js/main.9fd18a51.chunk.js",
-    "main.js.map": "/RetroBoard/static/js/main.9fd18a51.chunk.js.map",
+    "main.css": "/RetroBoard/static/css/main.99f47656.chunk.css",
+    "main.js": "/RetroBoard/static/js/main.6eed53b6.chunk.js",
+    "main.js.map": "/RetroBoard/static/js/main.6eed53b6.chunk.js.map",
     "runtime-main.js": "/RetroBoard/static/js/runtime-main.e9c403ca.js",
     "runtime-main.js.map": "/RetroBoard/static/js/runtime-main.e9c403ca.js.map",
     "static/js/2.2365982d.chunk.js": "/RetroBoard/static/js/2.2365982d.chunk.js",
     "static/js/2.2365982d.chunk.js.map": "/RetroBoard/static/js/2.2365982d.chunk.js.map",
     "index.html": "/RetroBoard/index.html",
-    "static/css/main.34d0c29f.chunk.css.map": "/RetroBoard/static/css/main.34d0c29f.chunk.css.map",
+    "static/css/main.99f47656.chunk.css.map": "/RetroBoard/static/css/main.99f47656.chunk.css.map",
     "static/js/2.2365982d.chunk.js.LICENSE.txt": "/RetroBoard/static/js/2.2365982d.chunk.js.LICENSE.txt",
     "static/media/caret-left-solid.f3619997.svg": "/RetroBoard/static/media/caret-left-solid.f3619997.svg",
     "static/media/caret-right-solid.572aedcd.svg": "/RetroBoard/static/media/caret-right-solid.572aedcd.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.e9c403ca.js",
     "static/js/2.2365982d.chunk.js",
-    "static/css/main.34d0c29f.chunk.css",
-    "static/js/main.9fd18a51.chunk.js"
+    "static/css/main.99f47656.chunk.css",
+    "static/js/main.6eed53b6.chunk.js"
   ]
 }
